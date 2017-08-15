@@ -1,5 +1,7 @@
 # hello superset on docker
 
+You will see sample data on `http://localhost` .
+
 ## build
 
 ```
